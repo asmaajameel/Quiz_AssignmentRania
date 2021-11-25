@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الواجب 3</string>
+    <string name="question1">تورنتو هي عاصمة أونتاريو.</string>
+    <string name="question2">فانكوفر هي عاصمة كولومبيا البريطانية</string>
+    <string name="question3">شارلوت تاون هي عاصمة جزيرة الأمير إدوارد</string>
+    <string name="question4">مونتريال هي عاصمة كيبيك</string>
+    <string name="question5">Montreal is the capital city of Quebec</string>
+    <string name="question6">Montreal is the capital city of Quebec</string>
+    <string name="question7">Montreal is the capital city of Quebec</string>
+    <string name="question8">Montreal is the capital city of Quebec</string>
+    <string name="truestring">صح</string>
+    <string name="falsestring">خطأ</string>
+    <string name="menu_get_theavg">احسب المتوسط</string>
+    <string name="select_the_number_of_quesions">حدد عدد الأسئلة</string>
+    <string name="reset_previous_results">إعادة تعيين النتائج المحفوظة</string>
+    <string name="save_btn">حفظ</string>
+    <string name="ignore_btn">تجاهل</string>
+</resources>

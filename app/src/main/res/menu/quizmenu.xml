@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ave" android:title="@string/menu_get_theavg"></item>
+    <item android:id="@+id/numOfQ" android:title="@string/select_the_number_of_quesions"></item>
+    <item android:id="@+id/reset" android:title="@string/reset_previous_results"></item>
+</menu>

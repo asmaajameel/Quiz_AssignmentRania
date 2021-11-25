@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz_Assignment</string>
+    <string name="question1">Toronto is the capital city of Ontario.</string>
+    <string name="question2">Vancover is the capital city of British Columbia</string>
+    <string name="question3">Charlottetown is the capital city of Prince Edward Island</string>
+    <string name="question4">Montreal is the capital city of Quebec</string>
+    <string name="question5">New Delhi is the capital city of India</string>
+    <string name="question6">Santiago is the capital city of Iran</string>
+    <string name="question7">Reykjavik is the capital city of Iceland</string>
+    <string name="question8">Jakarta is the capital city of Indonesia</string>
+
+    <string name="truestring">True</string>
+    <string name="falsestring">False</string>
+    <string name="menu_get_theavg">Get The Average</string>
+    <string name="select_the_number_of_quesions">Select the number of Question</string>
+    <string name="reset_previous_results">Reset the saved Result</string>
+    <string name="save_btn">Save</string>
+    <string name="ignore_btn">Ignore</string>
+</resources>
